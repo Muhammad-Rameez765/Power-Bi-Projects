@@ -62,10 +62,9 @@ The dashboard provides a clear, interactive view of HR metrics and helps stakeho
 ---
 
 ## 📂 Files Included
-- Power BI (.pbix) file
-- Sample dataset (if applicable)
-- Screenshots of dashboard pages
-
+- Power BI (.pdf) file
+- Readme file
+  
 ---
 
 ## 👤 Author
